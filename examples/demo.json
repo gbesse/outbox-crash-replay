@@ -1,0 +1,11 @@
+{
+  "stages": [
+    "before_commit",
+    "after_commit",
+    "after_delivery_before_ack"
+  ],
+  "consumers": [
+    "naive",
+    "idempotent"
+  ]
+}

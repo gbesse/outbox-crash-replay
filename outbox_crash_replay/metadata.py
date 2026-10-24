@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Tuer un vrai processus SQLite pour tester les frontières d’une outbox', 'en': 'Kill an actual SQLite process to test outbox boundaries', 'es': 'Matar un proceso SQLite real para probar límites de una outbox'}
